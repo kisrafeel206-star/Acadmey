@@ -28,7 +28,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student2.jpg"
+    photo:  "images/student2.jpeg"
   },
 
   {
@@ -38,7 +38,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student3.jpg"
+    photo:  "images/student3.jpeg"
   },
 
   {
@@ -48,7 +48,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student4.jpg"
+    photo:  "images/student4.jpeg"
   },
 
   {
@@ -58,7 +58,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student5.jpg"
+    photo:  "images/student5.jpeg"
   },
  {
     id:     "ACA-008",
@@ -67,7 +67,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student6.jpg"
+    photo:  "images/student6.jpeg"
  },  
  {
     id:     "ACA-005",
@@ -76,7 +76,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student7.jpg"
+    photo:  "images/student7.jpeg"
   } , 
   {
     id:     "ACA-002",
@@ -85,7 +85,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student8.jpg"
+    photo:  "images/student8.jpeg"
   } , 
  {
     id:     "ACA-003",
@@ -94,7 +94,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student9.jpg"
+    photo:  "images/student9.jpeg"
   } , 
    {
     id:     "ACA-004",
@@ -103,7 +103,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student10.jpg"
+    photo:  "images/student10.jpeg"
   } , 
    {
     id:     "ACA-001",
@@ -112,7 +112,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student11.jpg"
+    photo:  "images/student11.jpeg"
   }  
   // ── ADD MORE STUDENTS HERE ──
   // COPY THIS BLOCK AND CHANGE THE VALUES:
