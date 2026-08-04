@@ -12,7 +12,7 @@ const STUDENTS_DATA = [
   // ── EXAMPLE STUDENTS (Delete these and add your real ones) ──
 
   {
-  id: "427",
+  id: "ACA-427",
   name: "Israfeel Khan",
   father: "Javed Khan",
   course: "English language diploma",
@@ -22,45 +22,98 @@ const STUDENTS_DATA = [
 },
 
   {
-    id:     "ACA-2024-0002",
-    name:   "Ahmed khan",
-    father: "noor Ahmed",
-    course: "English language diploma",
-    grade:  "A",
-    date:   "March 15, 2024",
+    id:     "ACA-0010",
+    name:   "Abdur Rehman",
+    father: "Alif Gul",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
     photo:  "images/student2.jpg"
   },
 
   {
-    id:     "ACA-2024-0003",
-    name:   "Usman Malik",
-    father: "Asif Malik",
-    course: "English language diploma",
-    grade:  "B+",
-    date:   "April 10, 2024"
-  },
-
-  {
-    id:     "ACA-2024-0004",
-    name:   "azem Noor",
-    father: "Noor Hassan",
-    course: "English language diploma",
-    grade:  "A",
-    date:   "April 10, 2024"
-  },
-
-  {
-    id:     "ACA-2024-0005",
-    name:   "Bilal Hussain",
-    father: "Hussain khan",
-    course: "English language diploma",
+    id:     "ACA-009",
+    name:   "Muhammad Hassan",
+    father: "Tariq",
+    course: "English conversation certificate",
     grade:  "A+",
-    date:   "May 20, 2024"
-  }
-  
+    date:   "session August 2026",
+    photo:  "images/student3.jpg"
+  },
 
-  
+  {
+    id:     "ACA-006",
+    name:   "Muhammad Asif",
+    father: "Misri Jan",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student4.jpg"
+  },
 
+  {
+    id:     "ACA-007",
+    name:   "Nawab khan",
+    father: "Gulab khan",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student5.jpg"
+  },
+ {
+    id:     "ACA-008",
+    name:   "Muhammad Jalil",
+    father: "Muhammad Raheem",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student6.jpg"
+ },  
+ {
+    id:     "ACA-005",
+    name:   "Muhammad Wisal",
+    father: "Mina Gul",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student7.jpg"
+  } , 
+  {
+    id:     "ACA-002",
+    name:   "Muhammad Yousaf",
+    father: "Naik Amal",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student8.jpg"
+  } , 
+ {
+    id:     "ACA-003",
+    name:   "Bin Ya Meen Afridi",
+    father: "Dawood shah",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student9.jpg"
+  } , 
+   {
+    id:     "ACA-004",
+    name:   "Muhammad Hamza",
+    father: "Imran khan",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student10.jpg"
+  } , 
+   {
+    id:     "ACA-001",
+    name:   "Muhammad Bilal",
+    father: "Naik Amal",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student11.jpg"
+  }  
   // ── ADD MORE STUDENTS HERE ──
   // COPY THIS BLOCK AND CHANGE THE VALUES:
   //
