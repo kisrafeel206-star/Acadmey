@@ -139,7 +139,7 @@ const STUDENTS_DATA = [
     course: "English language diploma",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student11.jpeg"
+    photo:  "images/student14.jpeg"
   }  ,
    {
     id:     "ACA-0011",
@@ -148,7 +148,7 @@ const STUDENTS_DATA = [
     course: "English conversation certificate",
     grade:  "A+",
     date:   "session August 2026",
-    photo:  "images/student11.jpeg"
+    photo:  "images/student14.jpeg"
   }  
   // ── ADD MORE STUDENTS HERE ──
   // COPY THIS BLOCK AND CHANGE THE VALUES:
