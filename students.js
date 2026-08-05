@@ -113,6 +113,42 @@ const STUDENTS_DATA = [
     grade:  "A+",
     date:   "session August 2026",
     photo:  "images/student11.jpeg"
+  } , 
+  {
+    id:     "ACA-0013",
+    name:   "khalil Ahmad",
+    father: "Muhammad Ayub",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student13.jpeg"
+  }  ,
+   {
+    id:     "ACA-0012",
+    name:   "Naseer khan",
+    father: "Javed khan",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student12.jpeg"
+  } , 
+   {
+    id:     "ACA-502",
+    name:   "Mohib khan",
+    father: "Javed khan",
+    course: "English language diploma",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student11.jpeg"
+  }  ,
+   {
+    id:     "ACA-0011",
+    name:   "Mohib khan",
+    father: "Javed khan",
+    course: "English conversation certificate",
+    grade:  "A+",
+    date:   "session August 2026",
+    photo:  "images/student11.jpeg"
   }  
   // ── ADD MORE STUDENTS HERE ──
   // COPY THIS BLOCK AND CHANGE THE VALUES:
