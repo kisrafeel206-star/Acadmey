@@ -20,6 +20,15 @@ const STUDENTS_DATA = [
   date: "August 10, 2020",
   photo: "images/student1.jpg"
 },
+   {
+  id: "ACA-482",
+  name: "Zahid ullah",
+  father: "Zahir shah",
+  course: "English language diploma",
+  grade: "A+",
+  date: "session 2025",
+  photo: "images/student15.jpg"
+},
 
   {
     id:     "ACA-0010",
