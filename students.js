@@ -27,7 +27,7 @@ const STUDENTS_DATA = [
   course: "English language diploma",
   grade: "A+",
   date: "session 2025",
-  photo: "images/student15.jpg"
+  photo: "images/student15.jpeg"
 },
 
   {
