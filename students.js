@@ -21,6 +21,15 @@ const STUDENTS_DATA = [
   photo: "images/student1.jpg"
 },
    {
+  id: "ACA-0016",
+  name: "Muhammad Sudais",
+  father: "Muhammad Ishaq",
+  course: "English convresation certificate",
+  grade: "A+",
+  date: "session 2026",
+  photo: "images/student16.jpg"
+},
+   {
   id: "ACA-482",
   name: "Zahid ullah",
   father: "Zahir shah",
